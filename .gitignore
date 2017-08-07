@@ -6,3 +6,7 @@
 BuildingEscape/Content/StarterContent/
 
 *.VC.db
+BuildingEscape/.vs/BuildingEscape/v15/Browse.VC.opendb
+BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-shm
+BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-wal
+BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/BUILDINGESCAPE-9ba8f690/OPENDOOR-b9bc1e79/OPENDOOR.ipch
